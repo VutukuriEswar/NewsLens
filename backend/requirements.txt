@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+trafilatura
+nltk
+networkx
+scikit-learn
+pymongo
+pydantic
+requests
+python-dotenv

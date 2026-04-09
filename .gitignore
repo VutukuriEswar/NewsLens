@@ -1,0 +1,13 @@
+node_modules/
+__pycache__/
+*.pyc
+.env
+venv/
+env/
+.DS_Store
+news_data.db
+build/
+dist/
+coverage/
+logs/
+yarn.lock
