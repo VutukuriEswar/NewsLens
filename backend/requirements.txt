@@ -8,3 +8,4 @@ pymongo
 pydantic
 requests
 python-dotenv
+gunicorn
