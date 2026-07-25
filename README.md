@@ -108,4 +108,6 @@ This project is licensed under the **MIT License** — see the [LICENSE](./LICEN
 
 ## Acknowledgments
 
+This project was developed under the guidance of **Prof. Gundimeda Venugopal**, **VIT-AP University**. We sincerely thank our professor for their invaluable guidance, mentorship, and continuous support throughout the development of this project.
+
 Thanks to OpenRouter for providing accessible LLM gateways, MongoDB for the flexible document database, FastAPI for the high-performance web framework, and the open-source NLP community. Special thanks to the creators of Trafilatura for making web content extraction reliable, and to the NetworkX/Scikit-Learn projects for enabling native, powerful extractive summarization without external API dependencies.
